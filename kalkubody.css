@@ -1,0 +1,33 @@
+body {  
+    background: grey;  
+    position: static;
+  } 
+  .txt {
+      position: relative;
+      right: 200px;
+      left: 650px;
+      top: 280px;
+      width: 200px;
+      border: 5px solid #000;
+  }
+  table {
+      background-color: antiquewhite;
+      width: max-content;
+      position: relative;
+      right: 200px;
+      left: 650px;
+      top: 300px;
+      width: 200px;
+      border: 5px solid #000;
+  }
+  button {
+    height: 60px;
+    font-size: 2rem!important;
+  }
+  .outputerr{
+    position: relative;
+    right: 250px;
+    left: 650px;
+    top: 300px;
+    width: 200px;
+  }
